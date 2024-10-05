@@ -1,0 +1,3 @@
+rootProject.name = 'ffmpeg-kit-flutter-android'
+include(":libs")
+
